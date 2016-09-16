@@ -8,7 +8,8 @@ var styles = {
   },
   displayDiv : {
     background: '#4C4C4C',
-    height: '100px'
+    height: '100px',
+    color: '#FFF'
   },
   table : {
     border: '1px solid black',
